@@ -1,8 +1,7 @@
 # Post-contenido — Unidad 7: Gestión de Tareas con Spring Boot
 
 ## Descripción
-Repositorio del laboratorio de la Unidad 7 de Programación Web — Séptimo
-Semestre. Un único proyecto Spring Boot con dos capas sobre el mismo
+Repositorio del laboratorio de la Unidad 7 de Programación Web — Un único proyecto Spring Boot con dos capas sobre el mismo
 TareaService: una vista Thymeleaf (@Controller, parte 1) y una API REST
 (@RestController, parte 2).
 
